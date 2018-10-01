@@ -1,0 +1,10 @@
+<section class="sidebar">
+  <header>Fixed</header>
+  <div>
+    <div class="articles sm">
+      {{ with .Site.GetPage "page" "privacypolicy.md" }}
+      {{ .Render "li_sm" }}
+      {{ end }}
+    </div>
+  </div>
+</section>
