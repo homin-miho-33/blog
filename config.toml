@@ -1,4 +1,4 @@
-baseURL = "http://homin33.com"
+baseURL = "http://homin33.com/"
 languageCode = "ja"
 title = "homin.33 blog"
 theme = "robust"
