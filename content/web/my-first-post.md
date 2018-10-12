@@ -2,6 +2,7 @@
 title: "Hugo + Netlify でブログサイトを作る [1/2]"
 date: 2018-10-01T23:12:47+09:00
 draft: false
+toc: true
 thumbnail: "/images/PC_theme_photo.jpg"
 ---
 
