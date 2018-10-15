@@ -3,3 +3,8 @@ languageCode = "ja"
 title = "homin.33 blog"
 theme = "robust"
 googleAnalytics = "UA-126868848-1"
+
+[taxonomies]
+tag = "tags"
+category = "categories"
+series = "series"
