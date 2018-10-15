@@ -6,6 +6,8 @@ toc: true
 thumbnail: "/images/PC_theme_photo.jpg"
 categories:
  - "web"
+ - "hugo"
+ - "netlify"
 ---
 
 これから、ブログサイトをつくろう思います。
